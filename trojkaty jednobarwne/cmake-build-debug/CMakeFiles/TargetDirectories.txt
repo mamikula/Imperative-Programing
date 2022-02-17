@@ -1,0 +1,3 @@
+D:/Projekty Clion/trojkaty jednobarwne/cmake-build-debug/CMakeFiles/trojkaty_jednobarwne.dir
+D:/Projekty Clion/trojkaty jednobarwne/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/trojkaty jednobarwne/cmake-build-debug/CMakeFiles/rebuild_cache.dir

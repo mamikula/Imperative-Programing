@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\rectangles.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\rectangles.dir/objects.a @CMakeFiles\rectangles.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\rectangles.dir/objects.a -Wl,--no-whole-archive  -o rectangles.exe -Wl,--out-implib,librectangles.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rectangles.dir\linklibs.rsp

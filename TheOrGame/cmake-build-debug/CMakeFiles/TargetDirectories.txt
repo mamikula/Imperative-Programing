@@ -1,0 +1,3 @@
+D:/Projekty Clion/TheOrGame/cmake-build-debug/CMakeFiles/TheOrGame.dir
+D:/Projekty Clion/TheOrGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/TheOrGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

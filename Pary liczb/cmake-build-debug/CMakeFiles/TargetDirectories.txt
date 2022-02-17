@@ -1,0 +1,3 @@
+D:/Projekty Clion/Pary liczb/cmake-build-debug/CMakeFiles/Pary_liczb.dir
+D:/Projekty Clion/Pary liczb/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Pary liczb/cmake-build-debug/CMakeFiles/rebuild_cache.dir

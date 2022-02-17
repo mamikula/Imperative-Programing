@@ -1,0 +1,3 @@
+D:/Projekty Clion/Bramki XOR/cmake-build-debug/CMakeFiles/Bramki_XOR.dir
+D:/Projekty Clion/Bramki XOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Bramki XOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

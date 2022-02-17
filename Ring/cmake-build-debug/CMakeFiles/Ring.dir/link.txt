@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Ring.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\Ring.dir/objects.a @CMakeFiles\Ring.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Ring.dir/objects.a -Wl,--no-whole-archive  -o Ring.exe -Wl,--out-implib,libRing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ring.dir\linklibs.rsp

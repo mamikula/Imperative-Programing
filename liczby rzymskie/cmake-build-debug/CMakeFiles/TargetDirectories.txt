@@ -1,0 +1,3 @@
+D:/Projekty Clion/liczby rzymskie/cmake-build-debug/CMakeFiles/liczby_rzymskie.dir
+D:/Projekty Clion/liczby rzymskie/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/liczby rzymskie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

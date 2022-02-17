@@ -1,0 +1,3 @@
+D:/Projekty Clion/Rowne polowki/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Rowne polowki/cmake-build-debug/CMakeFiles/Rowne_polowki.dir
+D:/Projekty Clion/Rowne polowki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

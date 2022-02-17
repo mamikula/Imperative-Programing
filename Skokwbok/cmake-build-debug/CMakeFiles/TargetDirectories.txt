@@ -1,0 +1,3 @@
+D:/Projekty Clion/Skokwbok/cmake-build-debug/CMakeFiles/Skokwbok.dir
+D:/Projekty Clion/Skokwbok/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Skokwbok/cmake-build-debug/CMakeFiles/rebuild_cache.dir

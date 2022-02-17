@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Semimultiple.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\Semimultiple.dir/objects.a @CMakeFiles\Semimultiple.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Semimultiple.dir/objects.a -Wl,--no-whole-archive  -o Semimultiple.exe -Wl,--out-implib,libSemimultiple.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Semimultiple.dir\linklibs.rsp

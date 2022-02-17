@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Bramki_XOR.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\Bramki_XOR.dir/objects.a @CMakeFiles\Bramki_XOR.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Bramki_XOR.dir/objects.a -Wl,--no-whole-archive  -o Bramki_XOR.exe -Wl,--out-implib,libBramki_XOR.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bramki_XOR.dir\linklibs.rsp

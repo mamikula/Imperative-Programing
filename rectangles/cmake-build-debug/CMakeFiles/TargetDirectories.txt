@@ -1,0 +1,3 @@
+D:/Projekty Clion/rectangles/cmake-build-debug/CMakeFiles/rectangles.dir
+D:/Projekty Clion/rectangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/rectangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

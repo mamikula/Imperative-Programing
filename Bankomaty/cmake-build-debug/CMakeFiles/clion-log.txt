@@ -1,0 +1,11 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=D:/MINGW/mingw64/bin/gcc.exe -G "CodeBlocks - MinGW Makefiles" "D:\Projekty Clion\Bankomaty"
+-- The C compiler identification is GNU 8.1.0
+-- Check for working C compiler: D:/MINGW/mingw64/bin/gcc.exe
+-- Check for working C compiler: D:/MINGW/mingw64/bin/gcc.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Projekty Clion/Bankomaty/cmake-build-debug

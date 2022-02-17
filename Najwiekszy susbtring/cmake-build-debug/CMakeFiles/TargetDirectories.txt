@@ -1,0 +1,3 @@
+D:/Projekty Clion/Najwiekszy susbtring/cmake-build-debug/CMakeFiles/Najwiekszy_susbtring.dir
+D:/Projekty Clion/Najwiekszy susbtring/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Najwiekszy susbtring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/Projekty Clion/Square/cmake-build-debug/CMakeFiles/Square.dir
+D:/Projekty Clion/Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

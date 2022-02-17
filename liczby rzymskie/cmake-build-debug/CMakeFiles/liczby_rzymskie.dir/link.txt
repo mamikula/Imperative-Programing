@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\liczby_rzymskie.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\liczby_rzymskie.dir/objects.a @CMakeFiles\liczby_rzymskie.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\liczby_rzymskie.dir/objects.a -Wl,--no-whole-archive  -o liczby_rzymskie.exe -Wl,--out-implib,libliczby_rzymskie.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\liczby_rzymskie.dir\linklibs.rsp

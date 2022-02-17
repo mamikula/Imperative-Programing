@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Sasiedzi.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\Sasiedzi.dir/objects.a @CMakeFiles\Sasiedzi.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Sasiedzi.dir/objects.a -Wl,--no-whole-archive  -o Sasiedzi.exe -Wl,--out-implib,libSasiedzi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sasiedzi.dir\linklibs.rsp

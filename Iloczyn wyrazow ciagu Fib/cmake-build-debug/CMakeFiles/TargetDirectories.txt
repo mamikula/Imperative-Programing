@@ -1,0 +1,3 @@
+D:/Projekty Clion/Iloczyn wyrazow ciagu Fib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projekty Clion/Iloczyn wyrazow ciagu Fib/cmake-build-debug/CMakeFiles/Iloczyn_wyrazow_ciagu_Fib.dir
+D:/Projekty Clion/Iloczyn wyrazow ciagu Fib/cmake-build-debug/CMakeFiles/edit_cache.dir

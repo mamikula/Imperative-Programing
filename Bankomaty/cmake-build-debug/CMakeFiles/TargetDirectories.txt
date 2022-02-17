@@ -1,0 +1,3 @@
+D:/Projekty Clion/Bankomaty/cmake-build-debug/CMakeFiles/Bankomaty.dir
+D:/Projekty Clion/Bankomaty/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty Clion/Bankomaty/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:\Users\gryma\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\trojkaty_jednobarwne.dir/objects.a
+D:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\trojkaty_jednobarwne.dir/objects.a @CMakeFiles\trojkaty_jednobarwne.dir\objects1.rsp
+D:\MINGW\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\trojkaty_jednobarwne.dir/objects.a -Wl,--no-whole-archive  -o trojkaty_jednobarwne.exe -Wl,--out-implib,libtrojkaty_jednobarwne.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\trojkaty_jednobarwne.dir\linklibs.rsp
